@@ -4,7 +4,7 @@ Adds a way to call Twitching of Isaac commands from Streamer.bot.
 
 ## Download
 
-[Click here to download "*Twitching of Isaac.sb*".](Twitching%20of%20Isaac.sb?raw=1)
+[Right click here and use Save As to download "*Twitching of Isaac.sb*".](Twitching%20of%20Isaac.sb?raw=1)
 
 ## Auth Token
 
