@@ -40,6 +40,8 @@ The `Fart` action will have a sub-action defined that sets the argument %command
 
 The `Give 20/20` action has two sub-actions for setting two different arguments; %command% in this case is the `give` command, while the second parameter set is %parameters% which allows you to specify the input after the command, in this case `20/20`.
 
+Simply set the %command% argument to the command name you want to call (see https://twitchingofisaac.com/help for the list of commands), and set the %parameters% if the command requires them. You can also use this to call custom commands in the same way using the command name and parameters.
+
 ## Help
 
 If you need any assistance, or have any bugs to report, please join the [Twitching of Isaac Discord](https://discord.com/invite/5R9CSxzcep).
